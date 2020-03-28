@@ -1,10 +1,10 @@
 # ping test
-ping-test is shell script, it can help you testing the network connectivity use ping command, it can only running on windows .
+ping-test is shell script, it can help you testing the network connectivity using ping command, it runs on Windows .
 
 ## Features
 - ping one host, use built-in shell or cmd ping.
-- beep after ping fails greater than special times, user can defined.
-- record fail reason to log file
+- beep after ping fails greater than some time.
+- record fail reason to log file.
 
 ## Todo
 - beep, when network is ok again.
